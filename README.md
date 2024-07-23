@@ -854,4 +854,3 @@ export default Roadmap;
 - [Absolute Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
 - [Live Website](https://jsm-brainwave.com/)
 
-## <a name="more">🚀 More</a>
